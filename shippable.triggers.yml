@@ -3,3 +3,8 @@ triggers:
      type: trigger
      version:
        counter: 0
+       
+   - name: tg-coll2
+     type: trigger
+     version:
+       counter: 0
