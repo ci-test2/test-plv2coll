@@ -3,7 +3,7 @@ resources:
         
   - name: coll-image1
     type: image
-    integration: cock1-hub
+    integration: plv2-docker
     pointer:
       sourceName: "shiphitchcock1/betaci_nod_limitless_pl"
     seed:
